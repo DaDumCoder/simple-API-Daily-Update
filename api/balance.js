@@ -2,7 +2,7 @@ const { ethers } = require("ethers");
 
 // —– CONFIG —–
 const RPC_URL            = "https://rpc.soneium.org";
-const TOKEN_CONTRACT     = "0xb41AD48aada681E27441f146511DeB1b0574d944";
+const TOKEN_CONTRACT     = "0x270272E42E36EA515C3C09e4Ef2a9044ABdB10C5";
 const THRESHOLD_TOKENS   = 10_000;
 const TOKEN_DECIMALS     = 18; // most ERC-20s use 18 decimals
 
